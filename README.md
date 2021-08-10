@@ -1,4 +1,4 @@
-# todo_app
+# 2D Todo App
 
 A new Flutter project.
 
